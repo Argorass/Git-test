@@ -1,4 +1,10 @@
 * {
   background-color: aquamarine;
   color: black;
+  width: 100vh;
+  text-align: center;
+}
+
+#input {
+  width: 20rem;
 }
